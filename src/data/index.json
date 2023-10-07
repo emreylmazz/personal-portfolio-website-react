@@ -1,0 +1,80 @@
+{
+    "skills" : [
+        {
+            "id":1,
+            "src":"../../public/Front end.png",
+            "title":"Front-End",
+            "description":"hsbxahıbaıscıcuonscuon bssabcıbqudqbbjqjdwq dqjndqnjdjdqnjqwdq dnqwnjdnjdwqnjdqnjq wqjwjdndj"
+        },
+            {
+            "id":2,
+            "src":"../../public/Back end.jpg",
+            "title":"Back-End",
+            "description":"adccccdcdjkfecnwkefmwcjwcewcekwecmkwen nwennwecknwckdwcdnkwcekıcwkıwc ndkwcnkcnkcnkcnkckwcmkwcmkwcmkwce"
+            },
+            {
+            "id":3,
+            "src":"../../public/UX&UI.jpeg",
+            "title":"UI & UX Design",
+            "description":"sbjjbscajbbkbkscaj  cbjscbscjknj bjckxqnondqoend dqwnwqnjwoqndoqd wdbjolndowqnqwdnowdnnkl wd wdw"
+            },
+            {
+            "id":4,
+            "src":"../../public/webflow.jpg",
+            "title":"Webflow Development",
+            "description":"wmekcwcekmwcem wmckmwcekmwcdkmwc wcnknmwcknmcwkmwc wkcmwcmkcwmkıcmw cnsweqmqweoqopweckp wcdpwmvkwowdnwc"
+        }
+
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "../../public/placeholder-image.png",
+          "title": "Ahuse",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "link": "View In Github"
+        },
+        {
+          "id": "2",
+          "src": "../../public/placeholder-image-1.png",
+          "title": "App Dashboard",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "link": "View In Github"
+        },
+        {
+          "id": "3",
+          "src": "../../public/placeholder-image-2.png",
+          "title": "Easy Rentn",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "link": "View In Github"
+        }
+      ],
+      "testimonial": [
+        {
+          "id": "1",
+          "count": "5",
+          "src": "../../public/avatar-image.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "author_name": "Dianne Russel",
+          "author_designation": "Starbucks"
+        },
+        {
+          "id": "2",
+          "count": "5",
+          "src": "../../public/avatar-image-1.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "author_name": "Kristin Watson",
+          "author_designation": "Louis Vuitton"
+        },
+        {
+          "id": "3",
+          "count": "5",
+          "src": "../../public/avatar-image-2.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+          "author_name": "Kathryn Murphy",
+          "author_designation": "McDonald's"
+        }
+      ]
+    
+    
+}
