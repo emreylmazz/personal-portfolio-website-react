@@ -14,8 +14,8 @@ dist-ssr
 
 # Editor directories and files
 .vscode/*
-!.vscode/extensions.json
 node_modules/
+!.vscode/extensions.json
 .idea
 .DS_Store
 *.suo
@@ -23,3 +23,5 @@ node_modules/
 *.njsproj
 *.sln
 *.sw?
+
+.vercel
